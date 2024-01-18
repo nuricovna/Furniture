@@ -703,9 +703,6 @@ a:hover {
     padding-left: calc(50% - 393px);
     padding-right: calc(50% - 393px);
   }
-  .form__item {
-    height: 268px;
-  }
   .product-list {
     gap: 29px;
   }
