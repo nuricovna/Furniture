@@ -1,0 +1,31 @@
+@media (max-width: 1024px) {
+    .center {
+        padding-left: calc(50% - 393px);
+        padding-right: calc(50% - 393px);
+    }
+
+    .form {
+        &__item {
+            height: 268px;
+        }
+    }
+
+    .product-list {
+        gap: 29px;
+    }
+
+    .logofooter {
+        display: none;
+    }
+}
+
+@media (max-width: 833px) {
+    .center {
+        padding-left: calc(24px);
+        padding-right: calc(24px);
+    }
+
+    .product {
+        width: 345px;
+    }
+}
